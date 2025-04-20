@@ -38,7 +38,7 @@ export default function HomePage() {
           </h2>
           
           <h1 className="text-6xl md:text-8xl font-black mb-8 relative">
-            I'm ZenPay
+            I'm Moez
             <span className="text-blue-500 ml-1 relative">
               *
               <span className="absolute -top-1 -right-1 w-6 h-6 rounded-full bg-blue-400/40 animate-pulse blur-md"></span>
